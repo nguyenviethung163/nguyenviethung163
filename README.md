@@ -85,17 +85,6 @@ Engineering        → Clean Code · SOLID · Testing · Maintainability
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=nguyenviethung163&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=nguyenviethung163&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
-
-</div>
-
----
-
 ## Engineering Principles
 
 ```text
